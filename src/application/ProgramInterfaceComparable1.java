@@ -1,4 +1,4 @@
-package model.entities;
+package application;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
